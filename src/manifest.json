@@ -1,0 +1,17 @@
+{
+    "short_name": "OSE MILES PWA",
+    "name": "OSE MILES PORTFOLIO App PWA",
+    "icons": [
+        {
+            "src": "./images/hero.png",
+            "type": "image/png",
+            "sizes": "425x425"
+        }
+    ],
+   
+    "start_url": "offline.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary"
+}
